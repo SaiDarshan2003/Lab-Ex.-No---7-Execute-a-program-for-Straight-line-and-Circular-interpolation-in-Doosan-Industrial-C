@@ -35,21 +35,15 @@ Manipulate the end effector as per the given configuration. Movement Should Init
 Linear Interpolation
 
 
-
-
-
-
-
-
 Circular Interpolation
-
 ### output
-
-
+![175563842-4f34a7a0-31f5-4ff7-8b10-827c41013924](https://github.com/SaiDarshan2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94692595/c1319c30-afb0-4dd5-8bdf-c7252764bfb5)
+![175563638-e22b2a72-2c1e-4bc0-8d65-b08026477cd9](https://github.com/SaiDarshan2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94692595/176cd3d7-5c48-4d8b-9b92-23e08d4f8a21)
+![175563705-4a556742-5826-4ac8-aa0a-147ca515912f](https://github.com/SaiDarshan2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94692595/70e2852f-902e-435f-a563-3016628aedf6)
+![175563753-b2bf8fbc-018a-450e-aed0-0ca489356ea4](https://github.com/SaiDarshan2003/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94692595/13f2b2fa-6b9b-402c-9086-7a1b2265f150)
 
 
 ### Results 
 
 
-
- 
+Thus,program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio is executed
